@@ -1,27 +1,10 @@
-# BikeStores SQL Analysis
+BikeStores SQL Analysis
 
-## Project Overview
-This project analyzes the BikeStores retail database to evaluate sales performance,
-customer behavior, staff productivity, and product performance using advanced SQL techniques.
+Project Overview
+This project digs into the BikeStores retail database to understand how the business is actually performing across sales, customers, staff, and products. Rather than surface-level summaries, the queries are designed to surface the kind of answers that drive real decisions, using advanced SQL to get there.
 
-## Key Focus Areas
-- Store-level sales performance
-- Top revenue-generating products by category
-- Premium pricing analysis
-- Staff members with no sales
-- Best-selling products by volume
-- Cross-category customer behavior
+Key Focus Areas
+The analysis looks at store-level sales performance, identifies the top revenue-generating products by category, examines premium pricing patterns, flags staff members with no recorded sales, ranks best-selling products by volume, and explores how customers behave across multiple product categories.
 
-## SQL Techniques Used
-- Common Table Expressions (CTEs)
-- Window Functions
-- Ranking Functions
-- EXISTS and NOT EXISTS
-- Complex Aggregations
-
-## Dataset Note
-The BikeStores dataset is a structured retail database commonly used for SQL practice.
-Queries are designed to demonstrate analytical depth and business reasoning.
-
-## Author
-Shivam Dhunotiya
+SQL Techniques Used
+The project makes use of Common Table Expressions, Window Functions, Ranking Functions, EXISTS and NOT EXISTS logic, and complex aggregations throughout.
